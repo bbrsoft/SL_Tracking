@@ -18,7 +18,6 @@
 1. Tap on More  and 
 1. then Copy to clipboard. after that share this copied link with ADMIN.
 - Admin with this link can see salesman location for as long as you choose, up to 72 hours.
-- _Watch video here : https://bit.ly/3hNDuaI (How to track salesman?)_
 
 ---
 
