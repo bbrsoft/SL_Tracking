@@ -31,10 +31,10 @@
 
 ## ****P R E V I E W****
 
-<img src ="Images/welcome.png" width="220" height="400">  <img src ="Images/salesman_login.png" width="220" height="400"> 
-<img src ="Images/nav_menu.png" width="220" height="400"> <img src ="Images/salesman_list.png" width="220" height="400">     
-<img src ="Images/add_order.png" width="220" height="400">  <img src ="Images/task_list.png" width="220" height="400">
-<img src ="Images/order_summery.png" width="220" height="400">  <img src ="Images/destination.png" width="220" height="400">
+<img src ="welcome.png" width="220" height="400">  <img src ="salesman_login.png" width="220" height="400"> 
+<img src ="nav_menu.png" width="220" height="400"> <img src ="salesman_list.png" width="220" height="400">     
+<img src ="add_order.png" width="220" height="400">  <img src ="task_list.png" width="220" height="400">
+<img src ="order_summery.png" width="220" height="400">  <img src ="destination.png" width="220" height="400">
 ---
 
 > _KEEP SMILLING & HAPPY CODING_
